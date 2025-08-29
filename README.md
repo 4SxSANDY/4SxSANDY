@@ -2,9 +2,16 @@
 
 👋 Hey there! I'm **Sandanam**, a passionate computer science enthusiast with expertise in **Python, C++, and full-stack web development**. I'm currently mastering **MERN stack** and love collaborating and networking with like-minded people.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandanam-k-3654b5308/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sandanam-k-3654b5308/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandanam K" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/mr..sandy?igsh=cGY3YmxzN2hvZmZ3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr..sandy" height="30" width="40" />
+</a>
+</p>
+
 # 💻 Language and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
      alt="HTML Logo" 
