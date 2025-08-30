@@ -12,42 +12,16 @@
 </a>
 </p>
 
-# 💻 Language and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
-     alt="HTML Logo" 
-     width="50" 
-     height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" 
-     alt="CSS Logo" 
-     width="50" 
-     height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
-     alt="JavaScript Logo" 
-     width="50" 
-     height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
-     alt="C++ Logo" 
-     width="50" 
-     height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" 
-     alt="Figma Logo" 
-     width="50" 
-     height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" 
-     alt="React Logo" 
-     width="50" 
-     height="50">
-<img src="https://www.usebruno.com/logo.png" alt="Bruno API Client Logo" width="100" height="50">
-<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" 
-     alt="MongoDB Logo" 
-     width="100" 
-     height="50">
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" 
-     alt="Express.js Logo" 
-     width="100" 
-     height="40">
-<img src="https://download.blender.org/branding/blender_logo.png" alt="Blender Logo" width="100" height="50">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://download.blender.org/branding/blender_logo.png" alt="Blender Logo" width="100" height="50"> </p>
 
 [![Sandanam's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4SxSANDY&bg_color=000000&color=f5f5f5&line=9e4c98&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
