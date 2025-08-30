@@ -1,6 +1,7 @@
-# About Me 👋  
+# Hey There! 👋  
 
-👋 Hey there! I'm **Sandanam**, a passionate computer science enthusiast with expertise in **Python, C++, and full-stack web development**. I'm currently mastering **MERN stack** and love collaborating and networking with like-minded people.  
+I'm interested in web development and IoT, and have been exploring them through projects using the MERN stack, Figma for UI/UX design, and sensor-based systems. I enjoy building simple, smart, and user-friendly solutions that connect software and hardware.. Always eager to learn, collaborate, and create impactful digital experiences across both software and hardware domains.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
